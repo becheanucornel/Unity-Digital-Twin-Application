@@ -15,6 +15,7 @@ a conveyour.
 Also I created some C# scripts that help the user move around the scene.
 The conveyour has been imported from a github repository to make things simpler.
 Here is the repository: https://github.com/goldennoodles/Remake-Belt-Conveyor-System/tree/main
+Due to GitHub's file size limitation I had to compress the Unity Project.
 
 As for robot movement, I overwritten the target propriety of the Articulation Bodies with
 the values received from the robot controller.
