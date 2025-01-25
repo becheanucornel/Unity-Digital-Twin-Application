@@ -1,0 +1,54 @@
+#
+# Generated backup file, do not edit.
+#
+# Originally at: C:\Users\B. Cornel-Constantin\Documents\RobotStudio\Virtual Controllers\TEMP\164dcdc3-2a70-4936-8986-0fe100af7ce6\backup.628339
+# 2025-01-11  16:08:07
+#
+>>SYSTEM_ID:
+VIRTUAL_USE
+
+>>PRODUCTS_ID:
+RobotWare Version: 6.15.08.00
+
+  RobotWare Base
+  English
+  611-1 Path Recovery
+  613-1 Collision Detection
+  616-1 PC Interface
+  614-1 FTP SFTP and NFS client
+  688-1 RobotStudio App Connect
+  623-1 Multitasking
+  689-1 Externally Guided Motion (EGM)
+  UDPUC Driver
+  1125-2 SafeMove Pro
+  996-1 Safety Module
+  Drive System IRB 120/140/260/360/910SC/1200/1400/1520/1600/1660ID
+  ADU-790A in position X3
+  ADU-790A in position Y3
+  ADU-790A in position Z3
+  Axis Calibration
+  IRB 1200-5/0.9 Type B
+
+>>HOME:
+All public files and directories
+
+>>SYSPAR:
+SYS.cfg
+PROC.cfg
+MMC.cfg
+EIO.cfg
+SIO.cfg
+MOC.cfg
+
+
+>>TASK1: (T_ROB1,,)
+PROGMOD\MainModule.mod @ 
+
+>>TASK2: (SC_CBC,,)
+SYSMOD\user.sys @ 
+
+>>TASK3: (SocketCommunication,,)
+PROGMOD\UnityCommunication.mod @ 
+
+
+>>EOF:

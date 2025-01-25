@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<ProductSettings version="1.0">
+  <Products>
+    <Product name="RobotWare" version="6.15.8029" id="abb.robotics.robotware">
+      <Settings>
+        <Setting id="abb.robotics.robotware.base" displayName="RobotWare Base" robot="1" />
+        <Setting id="abb.robotics.robotware.languages.english" displayName="English" robot="1" />
+        <Setting id="abb.robotics.robotware.options.pathrecovery" displayName="611-1 Path Recovery" robot="1" path="\611-1 Path Recovery\Motion Functions\System Options\" />
+        <Setting id="abb.robotics.robotware.options.collisiondetection" displayName="613-1 Collision Detection" robot="1" path="\613-1 Collision Detection\Motion Supervision\System Options\" />
+        <Setting id="abb.robotics.robotware.options.pcinterface" displayName="616-1 PC Interface" robot="1" path="\616-1 PC Interface\Communication\System Options\" />
+        <Setting id="abb.robotics.robotware.options.ftpnfsclient" displayName="614-1 FTP SFTP and NFS client" robot="1" path="\614-1 FTP SFTP and NFS client\Communication\System Options\" />
+        <Setting id="abb.robotics.robotware.options.rsappconnect" displayName="688-1 RobotStudio App Connect" robot="1" path="\688-1 RobotStudio App Connect\Communication\System Options\" />
+        <Setting id="abb.robotics.robotware.options.multitasking" displayName="623-1 Multitasking" robot="1" path="\623-1 Multitasking\Engineering Tools\System Options\" />
+        <Setting id="abb.robotics.robotware.options.externallyguidedmotion" displayName="689-1 Externally Guided Motion (EGM)" robot="1" path="\689-1 Externally Guided Motion (EGM)\Engineering Tools\System Options\" />
+        <Setting id="abb.robotics.robotware.options.udpuc" displayName="UDPUC Driver" robot="1" />
+        <Setting id="abb.robotics.robotware.options.safemove.pro" displayName="1125-2 SafeMove Pro" robot="1" path="\1125-2 SafeMove Pro\Functional Safety\System Options\" />
+        <Setting id="abb.robotics.robotware.options.safetymodule" displayName="996-1 Safety Module" robot="1" />
+        <Setting id="abb.robotics.robotware.drivesystems.drive.dc430a2.du430a2.dm430a" displayName="Drive System IRB 120/140/260/360/910SC/1200/1400/1520/1600/1660ID" robot="1" />
+        <Setting id="abb.robotics.robotware.drivesystems.powerunits.adu1.790a.er2" displayName="ADU-790A in position X3" robot="1" />
+        <Setting id="abb.robotics.robotware.drivesystems.powerunits.adu2.790a.er2" displayName="ADU-790A in position Y3" robot="1" />
+        <Setting id="abb.robotics.robotware.drivesystems.powerunits.adu3.790a.er2" displayName="ADU-790A in position Z3" robot="1" />
+        <Setting id="abb.robotics.robotware.options.calaxis" displayName="Axis Calibration" robot="1" />
+        <Setting id="abb.robotics.robotware.robots.irb1200.5-0_9.typeb" displayName="IRB 1200-5/0.9 Type B" robot="1" />
+      </Settings>
+    </Product>
+  </Products>
+</ProductSettings>
